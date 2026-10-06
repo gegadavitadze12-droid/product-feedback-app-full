@@ -1,5 +1,6 @@
 "use client";
 
+import { ProductRequest, Status } from "@/types";
 import Button from "@/components/Button";
 import Spacer from "@/components/Spacer";
 import { Svg } from "@/components/Svg";
